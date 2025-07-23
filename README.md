@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="ProfilePicture"  />
+  <img height="200" border-radius: 10px; src="ProfilePicture"  />
 </div>
 
 ### GIT HUB Stats
