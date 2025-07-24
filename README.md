@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-  👋 Hi! I'm Matthias — Senior Wastewater Technician who loves to Code :)
+  👋  Hi ich bin Matthias 
   <br /><br />
-  My focus: creating Software that makes Life easier
+  Programmieren ist für mich der Schlüssel, um Ideen Wirklichkeit werden zu lassen.
 </p>
 
 ## TECH STACK
