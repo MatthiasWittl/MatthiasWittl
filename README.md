@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="ProfilePicture"  />
-</div>
-
 <p align="center">
   👋  Hi ich bin Matthias 
   <br /><br />
